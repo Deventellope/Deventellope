@@ -1,9 +1,9 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Sheriff
 
 Software Engineer.
 
-I enjoy building reliable software with a focus on clean architecture, scalability, and maintainable design.
-
+I build reliable software systems with a focus on scalability, maintainability, and seamless integration.
+My approach emphasizes clean architecture, modular design, and well-structured codebases that enable systems to evolve, scale gracefully, and be continuously refined into more robust solutions.
 ## Technologies
 
 * Python
@@ -19,6 +19,7 @@ I enjoy building reliable software with a focus on clean architecture, scalabili
 * System Design
 * Developer Tools
 * Artificial Intelligence
+* Data analysis
 
 ---
 
